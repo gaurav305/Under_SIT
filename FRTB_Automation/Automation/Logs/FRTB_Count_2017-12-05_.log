@@ -1,0 +1,5 @@
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 111
+        
+INFO:root: Execution Compelete for sql1

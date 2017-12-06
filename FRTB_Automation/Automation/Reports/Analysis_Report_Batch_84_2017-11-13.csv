@@ -1,0 +1,49 @@
+Execution and Count Analysis for Batch ID: 84,
+Asset Classes in this batch,
+IR
+FX
+Clients in the Batch
+NAB
+0910BKA
+ Total Count in the Batch,
+39
+Analyzing Data for :NAB,
+ASSET_CLASS_ID,CONTRIBUTOR_IDENTIFIER,INSTRUMENT_TYPE,INSTRUMENT_SUB_TYPE,NOTIONAL_CCY_CODE,TOTAL_COUNT,VALIDATION_CODES,ERROR_TRANSACTIONS
+FX,NAB,fxCorrelationSwap,,GBP,2,,0
+FX,NAB,fxForward,fxNonDelForward,EUR,1,,0
+FX,NAB,fxVarianceSwap,,CLP,1,,0
+FX,NAB,fxSwap,,COP,1,,0
+FX,NAB,fxExotic,asian,PHP,1,,0
+FX,NAB,fxExotic,rangeAccrual,THB,1,EFX51,1
+FX,NAB,fxCorrelationSwap,,GBP,1,EFX52,1
+FX,NAB,fxExotic,asian,GBP,1,,0
+FX,NAB,fxVolatilitySwap,,BRL,1,WCOM49,1
+FX,NAB,fxVanillaOption,fxVanillaOption,CNY,1,,0
+FX,NAB,fxFuture,,PLN,1,,0
+FX,NAB,fxForward,fxNonDelForward,INR,1,,0
+FX,NAB,fxExotic,rangeAccrual,EUR,1,EFX51,1
+FX,NAB,fxExotic,quanto,USD,1,ECOM34,1
+FX,NAB,fxCorrelationSwap,,EUR,1,EFX07;ECOM100;ECOM101,1
+FX,NAB,fxExotic,other,PEN,1,,0
+FX,NAB,fxVarianceSwap,,EUR,1,WCOM49,1
+FX,NAB,fxExotic,tarn,USD,1,,0
+FX,NAB,fxVanillaOption,fxNonDelOption,CNH,1,ECOM100;ECOM101,1
+FX,NAB,fxVanillaOption,fxVanillaOption,USD,1,,0
+FX,NAB,fxSwap,,EUR,1,ECOM100;WCOM34;ECOM101,1
+FX,NAB,fxFuture,,GBP,1,,0
+FX,NAB,fxForVolAgreement,,GBP,1,,0
+FX,NAB,fxForward,fxForward,IDR,1,,0
+FX,NAB,fxExotic,tarn,MYR,1,WCOM49,1
+FX,NAB,fxVolatilitySwap,,USD,1,,0
+FX,NAB,fxVanillaOption,fxNonDelOption,GBP,1,,0
+FX,NAB,fxExotic,other,EUR,1,,0
+FX,NAB,fxExotic,barrier,USD,1,ECOM49,1
+FX,NAB,fxExotic,barrier,RUB,1,,0
+FX,NAB,fxExotic,quanto,VND,1,,0
+FX,NAB,fxForward,fxForward,USD,1,,0
+FX,NAB,fxForVolAgreement,,KRW,1,,0
+FX,NAB,fxExotic,digital,TWD,1,,0
+FX,NAB,fxExotic,digital,GBP,1,,0
+Analyzing Data for :0910BKA,
+ASSET_CLASS_ID,CONTRIBUTOR_IDENTIFIER,INSTRUMENT_TYPE,INSTRUMENT_SUB_TYPE,NOTIONAL_CCY_CODE,TOTAL_COUNT,VALIDATION_CODES,ERROR_TRANSACTIONS
+IR,0910BKA,irs,fixedFloat,USD,3,,0

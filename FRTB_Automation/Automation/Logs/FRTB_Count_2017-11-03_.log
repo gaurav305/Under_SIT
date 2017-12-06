@@ -1,0 +1,25 @@
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 71
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 71
+                        
+        
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 71
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 71
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 71
+                        
+        
+INFO:root:Analyzing Data for :(None,)
+INFO:root:Writing data to CSV

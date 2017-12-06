@@ -1,0 +1,38 @@
+INFO:root:FRTB_Owner: Connnection Establised: 12.1.0.2.0
+INFO:root:Starting Batch Creation Process
+INFO:root:Creating Batch with Business start date from 01-11-2017 00:00:00to Business date01-12-2017 23:59:59
+INFO:root:Query Executed
+        DECLARE
+        l_batch_no number;
+        BEGIN
+        l_batch_no := frtb_batch.create_batch(business_date_from_in => to_date('01-11-2017 00:00:00','DD-MM-YYYY HH24:MI:SS'),
+                                             business_date_to_in   => to_date('01-12-2017 23:59:59','DD-MM-YYYY HH24:MI:SS'));
+        : Batch_id := l_batch_no;
+        END;
+        
+INFO:root: Batch Creation Complete, Batch ID created : 111
+INFO:root:Starting Step: ID_FILES Started at : 2017-12-05 10:16:47.724000
+INFO:root:Completed Step: ID_FILESCompleted at : 2017-12-05 10:16:48.644000
+INFO:root:Starting Step: LOAD Started at : 2017-12-05 10:16:48.644000
+INFO:root:Completed Step: LOADCompleted at : 2017-12-05 10:18:42.258000
+INFO:root:Starting Step: ANONYMIZE Started at : 2017-12-05 10:18:42.258000
+INFO:root:Completed Step: ANONYMIZECompleted at : 2017-12-05 10:18:55.577000
+INFO:root:Starting Step: MAP Started at : 2017-12-05 10:18:55.577000
+INFO:root:Completed Step: MAPCompleted at : 2017-12-05 10:19:16.215000
+INFO:root:Starting Step: VALIDATE Started at : 2017-12-05 10:19:16.215000
+INFO:root:FRTB_Owner: Connnection Establised: 12.1.0.2.0
+INFO:root:Starting Batch Creation Process
+INFO:root:Creating Batch with Business start date from 01-11-2017 00:00:00to Business date01-12-2017 23:59:59
+INFO:root:Query Executed
+        DECLARE
+        l_batch_no number;
+        BEGIN
+        l_batch_no := frtb_batch.create_batch(business_date_from_in => to_date('01-11-2017 00:00:00','DD-MM-YYYY HH24:MI:SS'),
+                                             business_date_to_in   => to_date('01-12-2017 23:59:59','DD-MM-YYYY HH24:MI:SS'));
+        : Batch_id := l_batch_no;
+        END;
+        
+INFO:root: Batch Creation Complete, Batch ID created : 113
+INFO:root:Starting Step: ID_FILES Started at : 2017-12-05 16:54:09.963000
+INFO:root:Completed Step: ID_FILESCompleted at : 2017-12-05 16:54:10.403000
+INFO:root:Starting Step: LOAD Started at : 2017-12-05 16:54:10.403000

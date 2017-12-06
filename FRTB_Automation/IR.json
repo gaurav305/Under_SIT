@@ -1,0 +1,13 @@
+{
+    "CR": [
+        {
+            "instrument": "cds",
+            "Instrument Sub-type": "indices"
+
+        },
+        {
+            "id": "blabla",
+            "iscategorical": "0"
+        }
+    ]
+}

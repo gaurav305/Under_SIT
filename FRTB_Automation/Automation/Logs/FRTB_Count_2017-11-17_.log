@@ -1,0 +1,105 @@
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 86
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 86
+                        
+        
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 89
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 89
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Execution Total count query
+INFO:root: Total count in the batch : (30752,)
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 89
+                        
+        
+INFO:root:Analyzing Data for :VPC019BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 89
+                        
+        
+INFO:root:Analyzing Data for :NAB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 89
+                        
+        
+INFO:root:Analyzing Data for :Westpac
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 89
+                        
+        
+INFO:root:Analyzing Data for :BATTSTBKA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 90
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 90
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Execution Total count query
+INFO:root: Total count in the batch : (25689,)
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 90
+                        
+        
+INFO:root:Analyzing Data for :VPC019BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 90
+                        
+        
+INFO:root:Analyzing Data for :Westpac
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 90
+                        
+        
+INFO:root:Analyzing Data for :BATTSTBKA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 91
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 91
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Execution Total count query
+INFO:root: Total count in the batch : (25689,)
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 91
+                        
+        
+INFO:root:Analyzing Data for :VPC019BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 91
+                        
+        
+INFO:root:Analyzing Data for :Westpac
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 91
+                        
+        
+INFO:root:Analyzing Data for :BATTSTBKA
+INFO:root:Writing data to CSV

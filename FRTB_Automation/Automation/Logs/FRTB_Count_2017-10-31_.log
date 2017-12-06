@@ -1,0 +1,684 @@
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        ,
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 55
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :CLR001EUC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :CLR001BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC019BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :SENICEBB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC270BKC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MIG018BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MWTESTBKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MWBKE
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :LGREP1BKD
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC270BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC270BKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :RTSLEGBKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :LCH002BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :SWDWS015BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MIG025BKD
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :POLSPRBKC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :POLSRPBKC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MIG015BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MIG024BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :RVC043BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :BARC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC186BKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :TST055BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :SWROBOT01BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC064SSA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC110BKC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC186BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :POLSRPBKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC064BKD
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MEGA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MIG013BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :LGREP1BKC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :RTSLEGBKC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC019BKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC110BKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :SENICEBA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MWTESTBKC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :BATTSTBKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :SWDWS015BKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC064BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :PC036BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MWTESTBKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :POLSPRBKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC019BKC
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :POLSRPBKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :NOMU
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :NPC072BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :CME001BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :POLSPRBKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC064BKB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :CLR005BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC110BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :LGREP1BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :CITI
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :TEST1
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :VPC019SSA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :POLSKSBKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :MIG002BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root:Analyzing Data for :TST016BKA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 54
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 54
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 54
+                        
+        
+INFO:root:Analyzing Data for :MUMSS
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 55
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 55
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 54
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 54
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 54
+                        
+        
+INFO:root:Analyzing Data for :MUMSS
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 57
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 57
+                        
+        
+INFO:root:Analyzing Data for :NOMURA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 63
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 63
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 63
+                        
+        
+INFO:root:Analyzing Data for :VPC064BKA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 64
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 64
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 64
+                        
+        
+INFO:root:Analyzing Data for :VPC064BKA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 65
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 65
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 65
+                        
+        
+INFO:root:Analyzing Data for :VPC064BKA
+INFO:root:Writing data to CSV
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 66
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 66
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 66
+                        
+        
+INFO:root:Analyzing Data for :VPC064BKA
+INFO:root:Writing data to CSV

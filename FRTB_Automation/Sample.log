@@ -1,0 +1,10 @@
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_5.3)
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "C:/Users/gaurav.saini/PycharmProjects/FRTB_Automation/Staging_Server_Check.py", line 13, in <module>
+    ssh.connect('ms01068.mserv.local',22,username='frtb_poc_qa', password='edmrsa@123', key_filename='C:\Users\gaurav.saini\PycharmProjects\FRTB_Automation\EDMSSHKEY_Export.ppk')
+  File "C:\Python27\lib\site-packages\paramiko\client.py", line 373, in connect
+    self, server_hostkey_name, server_key
+  File "C:\Python27\lib\site-packages\paramiko\client.py", line 700, in missing_host_key
+    raise SSHException('Server %r not found in known_hosts' % hostname)
+SSHException: Server 'ms01068.mserv.local' not found in known_hosts

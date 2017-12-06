@@ -1,0 +1,19 @@
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 94
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 94
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Execution Total count query
+INFO:root: Total count in the batch : (36,)
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 94
+                        
+        
+INFO:root:Analyzing Data for :NAB
+INFO:root:Writing data to CSV

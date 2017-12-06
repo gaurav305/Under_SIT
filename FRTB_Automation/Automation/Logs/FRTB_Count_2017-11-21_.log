@@ -1,0 +1,42 @@
+INFO:root:FRTB_Owner: Connection Establised: 12.1.0.2.0
+INFO:root: Executing the query : 
+        select distinct asset_class_id from frtb_normalised where batch_id = 96
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 96
+                        
+        
+INFO:root: Execution Compelete for sql1
+INFO:root: Execution Total count query
+INFO:root: Total count in the batch : (54,)
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 96
+                        
+        
+INFO:root:Analyzing Data for :VPC019BKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 96
+                        
+        
+INFO:root:Analyzing Data for :NAB
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 96
+                        
+        
+INFO:root:Analyzing Data for :VPC064SSA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 96
+                        
+        
+INFO:root:Analyzing Data for :BATTSTBKA
+INFO:root:Writing data to CSV
+INFO:root: Executing the query : 
+        select distinct contributor_identifier from frtb_normalised where batch_id = 96
+                        
+        
+INFO:root:Analyzing Data for :VPC064BKA
+INFO:root:Writing data to CSV
